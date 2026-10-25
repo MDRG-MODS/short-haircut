@@ -1,0 +1,37 @@
+{
+    "PackedTextures": [
+        {
+            "TextureName": "tex 2 - doggy_texture0_layer0.png",
+            "Layer": 0,
+            "PackedDrawables": [
+                {
+                    "Name": "ModdableHairBack",
+                    "RectInt": {
+                        "x": 5,
+                        "y": 5,
+                        "width": 738,
+                        "height": 815
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": false
+                },
+                {
+                    "Name": "ModdableHairFront",
+                    "RectInt": {
+                        "x": 753,
+                        "y": 5,
+                        "width": 738,
+                        "height": 815
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": false
+                }
+            ],
+            "Targets": [
+                "doggy"
+            ]
+        }
+    ]
+}
