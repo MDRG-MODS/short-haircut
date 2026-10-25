@@ -1,0 +1,18 @@
+{
+    "name": "Short Haircut (RU)",
+    "description": "beep boop read a name mod",
+    "OnGameStart": {
+        "luaScript": "",
+        "luaFiles": [
+            "bobcut.lua"
+        ]
+    },
+    "targetVersion": "0.97.11",
+    "languageCode": "en",
+    "doNotChangeVariablesBelowThis": {
+        "timeCreated": 639245677214279196,
+        "guid": {
+            "serializedGuid": "02ea19b0-461d-4b40-872a-f63a2e45c7e9"
+        }
+    }
+}
